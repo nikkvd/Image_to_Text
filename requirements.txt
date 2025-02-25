@@ -4,4 +4,3 @@ python-dotenv #meant for local variables
 langchain
 langchain-google-genai
 google-generativeai
-PIL
