@@ -33,8 +33,8 @@ This is an **AI-powered Image-to-Text System** built with **Streamlit** and **Go
 3. **AI Processes Image** – The system uses Gemini API to analyze the image and generate a response.
 4. **View Results** – The processed text is displayed based on the prompt.
 ---
-Feel free to fork, modify, and contribute to this project!
+- Feel free to fork, modify, and contribute to this project!
 ---
 ### License
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 ---
